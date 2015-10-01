@@ -2,11 +2,11 @@
 
 Supported mixins:
 
-- `fill` - `@include fill-parent`
-- `media` - `@include media()`
-- `omega` - `@include omega`
-- `outer` - `@include outer-container`
-- `pad` - `@include pad()`
-- `row` - `@include row`
-- `shift` - `@include shift()`
-- `span` - `@include span-columns()`
+- `fill` - `+fill-parent`
+- `media` - `+media()`
+- `omega` - `+omega`
+- `outer` - `+outer-container`
+- `pad` - `+pad()`
+- `row` - `+row`
+- `shift` - `+shift()`
+- `span` - `+span-columns()`
